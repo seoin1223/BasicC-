@@ -3,8 +3,8 @@
 <br>
 
 ### 목차
-1. [c# 알아보기](###c#알아보기)
-2. c# 시작하기
+1. [c# 알아보기](#-c-알아보기)
+2. [c# 시작하기](#c-시작하기)
 3. c# 기본기 쌓기
 4. 클래스 알아보기
 5. c# 실력 쌓기
@@ -60,6 +60,12 @@
 
 <br>
 
+---
+
+### c# 시작하기
+
+---
+
 #### Visual Studio 
 1. Visual Studio : 웹 사이트, 웹 앱, 모바일앱, 윈도우즈 프로그램 등을 개발할 수 있는 통합 개발 환경(IDE)
 2. <details>
@@ -75,5 +81,7 @@
         <img src="https://github.com/user-attachments/assets/c2b5f77a-99ca-467e-a97f-8718f6067e30" width="500px" height="300px">
 </details>
        
+
+#### c#으로 첫 번째 프로그램 만들기
     
 
