@@ -80,7 +80,8 @@
     3. 설치 진행 화면   
         <img src="https://github.com/user-attachments/assets/c2b5f77a-99ca-467e-a97f-8718f6067e30" width="500px" height="300px">
 </details>
-       
+
+<br>
 
 #### c#으로 첫 번째 프로그램 만들기
     
