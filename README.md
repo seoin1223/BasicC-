@@ -5,7 +5,7 @@
 ### 목차
 1. [c# 알아보기](#-c-알아보기)
 2. [c# 시작하기](#c-시작하기)
-3. c# 기본기 쌓기
+3. [c# 기본기 쌓기](#-c-기본기-쌓기)
 4. 클래스 알아보기
 5. c# 실력 쌓기
 6. 윈도우 프로그램 만들기
@@ -18,6 +18,7 @@
 ---
 
 ### C# 알아보기
+
 ---
 
 #### 프로그래밍 언어 시작하기
@@ -26,6 +27,7 @@
     - 웹 앱, 모바일 앱, 데스크톱   프로그램, 게임 프로그램, 사물 인터넷 프로그램 등을 만들기 위한 오픈소스, 크로스 플랫폼 개발 환경
     - Common intermediate Language(CIL) 과 Common Language Runtime(CLR) 즉, CIL을 실행할 수 있는 환경을 포함한 것이 .NET Framework 
 3. 닷넷 프레임워크와 닷넷 코어
+
     |        | .NET Framework | .NET Core | Xamarin |
     |:--------|:--------|:--------|:------------|
     | App Models | WPF, Windows Forms, ASP.NET | UWP, ASP.NET Core |Xamarin IOS, Xamarin Android, Xamarin Forms, Xamarin Max|
@@ -105,3 +107,21 @@
    - https://dotnetfiddle.net/
    - https://app.codingrooms.com/
    - https://replit.com/
+
+
+<br>
+
+---
+
+### c# 기본기 쌓기
+
+---
+
+
+#### 데이터를 저장하는 상자
+1. Value(값)과 Variable(변수)
+    - 변수는 값을 저장하기 위한 공간으로 값의 종류에 따라 정수, 실수, 문자. Boolean 형 등으로 구분
+    - 변수의 선언 : int variable;
+    - 변수의 초기화 : int variable = 10;
+
+2. [변수의 선언과 초기화 실습](ConsoleApp1/Program.cs)
